@@ -14,6 +14,9 @@
     limitations under the License.
 -->
 <permissions>
-    <library name="google-ril" file="/system_ext/framework/google-ril.jar"/>
+    <library
+        name="google-ril"
+        file="/system_ext/framework/google-ril.jar"
+    />
 </permissions>
 
