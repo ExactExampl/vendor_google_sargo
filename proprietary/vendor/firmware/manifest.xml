@@ -3,7 +3,7 @@
 <manifest>
   <remote name="poly" fetch="https://googleplex-polygon-android.googlesource.com/" review="https://googleplex-polygon-android.googlesource.com/" />
 
-  <default revision="bonito-sc" remote="poly" />
+  <default revision="bonito-sc-qpr1" remote="poly" />
 
 
   <project path="nested/ssc/goog" name="platform/vendor/google_devices/common/non-hlos/ssc/goog" groups="non-hlos,partner" revision="4ac6ff69685bd18e263354983f2ab5d2a6692d48" />
