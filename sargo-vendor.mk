@@ -174,6 +174,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sargo/proprietary/product/etc/permissions/com.google.android.hardwareinfo.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.android.hardwareinfo.xml \
     vendor/google/sargo/proprietary/product/etc/permissions/com.google.android.odad.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.android.odad.xml \
     vendor/google/sargo/proprietary/product/etc/permissions/com.google.omadm.trigger.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.omadm.trigger.xml \
+    vendor/google/sargo/proprietary/product/etc/permissions/com.google.android.wfcactivation.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.google.android.wfcactivation.xml \
     vendor/google/sargo/proprietary/product/etc/permissions/com.verizon.apn.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.verizon.apn.xml \
     vendor/google/sargo/proprietary/product/etc/permissions/com.verizon.services.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.verizon.services.xml \
     vendor/google/sargo/proprietary/product/etc/permissions/features-verizon.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/features-verizon.xml \
@@ -306,6 +307,7 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleRT5514 \
     ImsServiceEntitlement \
     OemDmTrigger \
+    WfcActivation \
     EuiccSupportPixelPermissions \
     QtiTelephonyServicelibrary \
     qcrilhook \
