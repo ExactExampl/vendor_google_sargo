@@ -712,6 +712,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sargo/proprietary/vendor/firmware/widevine.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/widevine.mdt \
     vendor/google/sargo/proprietary/vendor/firmware/wlanmdsp.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp.mbn \
     vendor/google/sargo/proprietary/vendor/lib/android.hardware.sensors@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.sensors@2.0-impl.so \
+    vendor/google/sargo/proprietary/vendor/lib/android.hardware.keymaster@4.1.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.keymaster@4.1.so \
     vendor/google/sargo/proprietary/vendor/lib/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib/btaudio_offload_if.so \
     vendor/google/sargo/proprietary/vendor/lib/camera/com.qti.sensormodule.metric_imx363.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.metric_imx363.bin \
     vendor/google/sargo/proprietary/vendor/lib/camera/com.qti.sensormodule.primax_imx355.bin:$(TARGET_COPY_OUT_VENDOR)/lib/camera/com.qti.sensormodule.primax_imx355.bin \
@@ -986,6 +987,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/sargo/proprietary/vendor/lib64/android.hardware.confirmationui.secure_input_citadel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.confirmationui.secure_input_citadel.so \
     vendor/google/sargo/proprietary/vendor/lib64/android.hardware.identity@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.identity@1.0-impl.nos.so \
     vendor/google/sargo/proprietary/vendor/lib64/android.hardware.keymaster@4.1-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.keymaster@4.1-impl.nos.so \
+    vendor/google/sargo/proprietary/vendor/lib64/android.hardware.keymaster@4.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.keymaster@4.1.so \
     vendor/google/sargo/proprietary/vendor/lib64/android.hardware.oemlock@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.oemlock@1.0-impl.nos.so \
     vendor/google/sargo/proprietary/vendor/lib64/android.hardware.sensors@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.sensors@2.0-impl.so \
     vendor/google/sargo/proprietary/vendor/lib64/android.hardware.weaver@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.weaver@1.0-impl.nos.so \
