@@ -284,7 +284,6 @@ PRODUCT_PACKAGES += \
     CameraExtensionsProxy \
     QtiTelephonyService \
     atfwd \
-    datastatusnotification \
     ims \
     uceShimService \
     uimremoteclient \
