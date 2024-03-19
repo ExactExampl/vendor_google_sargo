@@ -30,6 +30,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/MobileFeliCaClient/MobileFeliCaClient.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -41,6 +42,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/MobileFeliCaMenuMainApp/MobileFeliCaMenuMainApp.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -52,6 +54,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/MobileFeliCaSettingApp/MobileFeliCaSettingApp.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -63,6 +66,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/MobileFeliCaWebPlugin/MobileFeliCaWebPlugin.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -74,6 +78,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/MobileFeliCaWebPluginBoot/MobileFeliCaWebPluginBoot.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -85,6 +90,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/PixelCameraServicesSargo/PixelCameraServicesSargo.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -96,6 +102,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/app/SSRestartDetector/SSRestartDetector.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -118,6 +125,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/CarrierSettings/CarrierSettings.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -142,6 +150,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/EuiccGoogle/EuiccGoogle.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -166,6 +175,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/HotwordEnrollmentOKGoogleRT5514/HotwordEnrollmentOKGoogleRT5514.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -178,6 +188,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/HotwordEnrollmentXGoogleRT5514/HotwordEnrollmentXGoogleRT5514.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -214,6 +225,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/product/priv-app/WfcActivation/WfcActivation.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
@@ -226,6 +238,7 @@ android_app_import {
 	owner: "google",
 	apk: "proprietary/system_ext/priv-app/EuiccSupportPixelPermissions/EuiccSupportPixelPermissions.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
